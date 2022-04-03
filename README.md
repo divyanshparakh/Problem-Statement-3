@@ -1,4 +1,11 @@
-# Problem Statement 3 - Breaking down monoliths 🪨⛏️
+# Cloud Computing Hackathon
+- TEAM 11
+- PES2UG19CS101 - Danish Hashmi
+- PES2UG19CS118 - Divaynsh Kumar Singh
+- PES2UG19CS119 - Divaynsh Parakh
+- PES2UG19CS125 - G. Vijith Chary Kumar
+
+# Problem Statement 3 - Breaking down monoliths ⛏️
 
 This problem statement has two objectives:
 - Get familiar with reading error stack trace and debugging code.
